@@ -23,6 +23,7 @@ Filtered categories used:
 - TF-IDF vectorization  
 
  🧪 Results
+
 | Model | Accuracy |
 |--------|-----------|
 | Naive Bayes | 0.870 |
@@ -34,3 +35,5 @@ Filtered categories used:
 ⚙️ How to Run
 ```bash
 python consumer_complaint_classification.py
+
+
